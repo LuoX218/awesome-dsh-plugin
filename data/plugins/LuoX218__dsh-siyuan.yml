@@ -1,0 +1,6 @@
+url: https://github.com/LuoX218/dsh-siyuan
+name: LuoX218/dsh-siyuan
+category: tools
+description:
+  en: 'SiYuan note sync: right-click any conversation message to save it into a SiYuan notebook, choosing a single message, the current turn, or the whole window. Formulas and mermaid diagrams become native SiYuan blocks, user and assistant messages render as distinct colored callouts, and segments carry backlinks to their session and turn. An offline queue flushes automatically when SiYuan starts, and whole-window syncs can generate a structured summary with the current model.'
+  zh: '思源笔记同步：右键任意对话消息即可存入思源笔记本，可选单条消息、本轮对话或整个窗口。公式与 mermaid 图表保留为思源原生块，用户与助手消息渲染为不同颜色的气泡块，每段带回到原会话与轮次的回链。思源未运行时内容进入离线队列，启动后自动补写；整窗口同步可调用当前模型生成结构化摘要。'
